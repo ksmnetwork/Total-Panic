@@ -19,6 +19,28 @@
 
 > Alerts well this is up to you, since there is more then 10+ popular integrations with Telegram, DIscord, Webhooks and many more
 
+##### List of supported notifiers #####
+* DingDing	dingding	yes, external only	no
+* Discord	discord	yes	no
+* Email	email	yes	no
+* Google Hangouts Chat	googlechat	yes, external only	no
+* Hipchat	hipchat	yes, external only	no
+* Kafka	kafka	yes, external only	no
+* Line	line	yes, external only	no
+* Microsoft Teams	teams	yes, external only	no
+* Opsgenie	opsgenie	yes, external only	yes
+* Pagerduty	pagerduty	yes, external only	yes
+* Prometheus Alertmanager	prometheus-alertmanager	yes, external only	yes
+* Pushover	pushover	yes	no
+* Sensu	sensu	yes, external only	no
+* Sensu Go	sensugo	yes, external only	no
+* Slack	slack	yes	no
+* Telegram	telegram	yes	no
+* Threema	threema	yes, external only	no
+* VictorOps	victorops	yes, external only	yes
+* Webhook	webhook	yes, external only	yes
+* Zenduty	webhook	yes, external only	yes
+
 ---
 # For Support && Nominations #
 * Display name. KSMNETWORK && KSMNETWORK-WEST 
