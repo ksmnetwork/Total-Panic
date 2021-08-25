@@ -17,6 +17,7 @@
 
 > Filter is casesensitive 
 
+> Alerts well this is up to you, since there is more then 10+ popular integrations with Telegram, DIscord, Webhooks and many more
 
 ---
 # For Support && Nominations #
