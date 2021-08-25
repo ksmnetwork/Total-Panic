@@ -4,7 +4,8 @@
 
 #### Steps: ####
 * Create Grafana Cloud Account
-* Install JSON API Plugin
+* Install JSON API Plugin 
+* [JSON API Data Source for Grafana Documentation](https://marcus.se.net/grafana-json-datasource/) 
 * Add the preffered endpoint
  * [PolkaDOT Candidates ](https://polkadot.w3f.community/candidates)
  * ``` https://polkadot.w3f.community/candidates ```
