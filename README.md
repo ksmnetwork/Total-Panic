@@ -16,3 +16,19 @@
 > Grafana sets also quite small timeouts check them as well 
 
 > Filter is casesensitive 
+
+
+---
+# For Support && Nominations #
+* Display name. KSMNETWORK && KSMNETWORK-WEST 
+* Email w3f@ksm.network
+* Riot @gtoocool:matrix.org
+
+* KUSAMA (KSM) Address
+* ```H1bSKJxoxzxYRCdGQutVqFGeW7xU3AcN6vyEdZBU7Qb1rsZ```
+
+* PolkaDOT (DOT) Address:
+* ```15FxvBFDd3X7H9qcMGqsiuvFYEg4D3mBoTA2LQufreysTHKA```
+
+* https://ksm.network
+
