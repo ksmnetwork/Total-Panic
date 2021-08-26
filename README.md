@@ -18,9 +18,10 @@ Simple but powerfull KUSAMA and PolkaDOT Telemetry Analisys and Alerting
 
 ![](https://grafana.com/api/dashboards/14921/images/10946/image)
 
+### The eye of Ku:compass: ###
 ##### Additional Dashboard for full overview of the Validators Score #####
 * [Starter dashboard](https://grafana.com/grafana/dashboards/14923)
-* [Score overview snapshot](https://ksmnetwork.grafana.net/dashboard/snapshot/EtPlaCisVFQ5bvDsdOpaGeouqJ1JUMWp)
+* [Score overview snapshot](https://snapshot.raintank.io/dashboard/snapshot/EMURkx4OnIWKaRTkTdaBQLmUnWC9N6tb)
 
 ![](https://grafana.com/api/dashboards/14923/images/10951/image)
 ![](https://grafana.com/api/dashboards/14923/images/10950/image)
