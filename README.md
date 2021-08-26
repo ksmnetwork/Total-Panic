@@ -1,6 +1,7 @@
 # TOTAL Panic #
 
 ### KUSAMA and PolkaDOT Telemetry Monitoring with Grafana Cloud and JSON API ###
+Simple but powerfull KUSAMA and PolkaDOT Telemetry Analisys and Alerting 
 
 #### Steps: ####
 * Create Grafana Cloud Account
