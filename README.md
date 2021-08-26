@@ -15,6 +15,7 @@
 * Check the live demo [Snapshot - Aug 26](https://ksmnetwork.grafana.net/dashboard/snapshot/dv1qCRgvQidjZltc0PEpGWsStBxpRzCY?orgId=1&refresh=30s)
 
 ![](https://grafana.com/api/dashboards/14921/images/10946/image)
+![](https://grafana.com/api/dashboards/14921/images/10947/image)
 
 ##### Settings #####
 > Set your settings to obtain the information at least on minimum 5m to do not DDos it.
