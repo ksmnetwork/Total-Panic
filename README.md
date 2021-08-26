@@ -12,6 +12,7 @@
  * [KUSAMA Candidates](https://kusama.w3f.community/candidates)
  * ``` https://kusama.w3f.community/candidates ```
 * Add the Simple Dashboard [Dashboard](https://grafana.com/grafana/dashboards/14921)
+* Set your notifiers, there is many of them in one place
 * Check the live demo [Snapshot - Aug 26](https://ksmnetwork.grafana.net/dashboard/snapshot/dv1qCRgvQidjZltc0PEpGWsStBxpRzCY?orgId=1&refresh=30s)
 
 ![](https://grafana.com/api/dashboards/14921/images/10946/image)
