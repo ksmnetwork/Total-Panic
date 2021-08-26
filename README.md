@@ -22,7 +22,7 @@ Simple but powerfull KUSAMA and PolkaDOT Telemetry Analisys and Alerting
 * [Starter dashboard](https://grafana.com/grafana/dashboards/14923)
 * [Score overview snapshot](https://ksmnetwork.grafana.net/dashboard/snapshot/EtPlaCisVFQ5bvDsdOpaGeouqJ1JUMWp)
 
-![](https://grafana.com/api/dashboards/14923/images/10949/image)
+![](https://grafana.com/api/dashboards/14923/images/10951/image)
 ![](https://grafana.com/api/dashboards/14923/images/10950/image)
 
 ##### Settings #####
