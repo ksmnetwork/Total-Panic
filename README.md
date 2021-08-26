@@ -15,7 +15,12 @@
 * Check the live demo [Snapshot - Aug 26](https://ksmnetwork.grafana.net/dashboard/snapshot/dv1qCRgvQidjZltc0PEpGWsStBxpRzCY?orgId=1&refresh=30s)
 
 ![](https://grafana.com/api/dashboards/14921/images/10946/image)
-![](https://grafana.com/api/dashboards/14921/images/10947/image)
+
+##### Additional Dashboard for full overview of the Validators Score #####
+* [Starter dashboard](https://grafana.com/grafana/dashboards/14923)
+* [Score overview snapshot](https://ksmnetwork.grafana.net/dashboard/snapshot/EtPlaCisVFQ5bvDsdOpaGeouqJ1JUMWp)
+
+![](https://grafana.com/api/dashboards/14923/images/10949/image)
 
 ##### Settings #####
 > Set your settings to obtain the information at least on minimum 5m to do not DDos it.
