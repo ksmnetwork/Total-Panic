@@ -21,7 +21,7 @@ Simple but powerfull KUSAMA and PolkaDOT Telemetry Analisys and Alerting
 
 ![](https://grafana.com/api/dashboards/14921/images/10946/image)
 
-### The eye of Ku:compass: ###
+### The eye of Kusama :bird: ###
 ###### Validators Score Overview ######
 * [Starter dashboard](https://grafana.com/grafana/dashboards/14923)
 * [Score overview snapshot](https://snapshot.raintank.io/dashboard/snapshot/EMURkx4OnIWKaRTkTdaBQLmUnWC9N6tb)
